@@ -1,2 +1,2 @@
-# movie
+# Amovie
 A little movie adviser
